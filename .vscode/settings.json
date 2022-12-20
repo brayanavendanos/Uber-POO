@@ -1,0 +1,6 @@
+{
+    "synthwave84.disableGlow": false,
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
